@@ -8,3 +8,8 @@ body
 {
 background-color: lightgreen;
 }
+
+#logout
+{
+	font-size: 35px; float: right;
+}
